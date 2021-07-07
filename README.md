@@ -1,6 +1,6 @@
-### Hi there, I'm rza - aka [kangarli][website] 👋
+### Hi I'm Rza - [][website] 👋
 
-[![website]](https://kangarlidev.web.app/)
+[![Website]](https://codestackr.com)
 
 ## I'm a Developer, and Designer!!
 
