@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning everything
 - ⚡ I love to origami and parkour
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="spotify Playing" width="350" />](https://open.spotify.com/track/1kt7yK7e8c6ELn7mzb5UCQ?si=76bbc6e1863c4c93)
+
 ### Connect with me:
 
 [<img align="left" alt="kangarli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RzaKangarli)
