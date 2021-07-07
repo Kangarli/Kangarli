@@ -2,10 +2,7 @@
 
 [![Website]](https://kangarlidev.web.app/)
 
+## I'm a Developer, and Designer!!
 
-</details>
-
-[website]: https://kangarlidev.web.app/
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://www.instagram.com/rkangarli/
-[linkedin]: https://www.linkedin.com/in/rza-kangarli-861566188/
+- 🌱 I’m currently learning everything
+- ⚡ I love to origami and parkour
