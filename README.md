@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" fill="red" alt="kangarli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RzaKangarli)
+[<img align="left" style="fill: 'red'" alt="kangarli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RzaKangarli)
 [<img align="left" alt="kangarli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rza-kangarli-861566188/)
 [<img align="left" alt="rkangarli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rkangarli/)
 [website](https://kangarlidev.web.app/)
