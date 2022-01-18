@@ -1,4 +1,4 @@
-### Hi there, I'm Rza - aka [kangarli](https://kangarlidev.web.app/) 👋
+### Hi there, I'm Rza - [kangarli](https://kangarlidev.web.app/) 👋
 
 ## I'm a Developer, and Designer!!
 
